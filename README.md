@@ -9,7 +9,9 @@ This repository was created as part of the [Principles of Data Analytics](https:
 
 ## About This Project
 
-This project is about....
+This project is about the "palmer penguins" dataset is a dataset on penguins from three different species that contains information on the penguins' body measurements, including beak length and depth, flipper length, and body mass, as well as sex information. This dataset is widely used in education and research to teach and model data analysis techniques.
+
+There are three species of penguins in the dataset: Adelie, Gentoo and Chinstrap. Scientifically known as Pygoscelis adeliae, Pygoscelis papua and Pygoscelis antarctica, respectively. Data was collected from 3 different locations: Dream, Torgersen and Biscoe at Palmer Station in Antarctica.
 
 The culmen is the upper ridge of a bird’s bill. In the simplified penguins data, culmen length and depth are renamed as variables `bill_length_mm` and `bill_depth_mm` to be more intuitive.
 
