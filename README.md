@@ -26,13 +26,13 @@ This project is useful for demonstrating some of the skills developed for analys
 ## Getting Started
 
 I used [openincolab](https://openincolab.com/) to generate the following clickable link.
-It opens the `penguins.ipynb` Jupyter Notebook in [Google Colab](https://colab.research.google.com/) and you also can access the project clinking on this link [`penguins.ipynb`](https://github.com/RodrigoDMU/MyWorkPDA-Project/blob/main/penguins.ipynb).
+It opens the [`penguins.ipynb`](https://github.com/RodrigoDMU/MyWorkPDA-Project/blob/main/penguins.ipynb) Jupyter Notebook in [Google Colab](https://colab.research.google.com/).
 
 <a target="_blank" href="https://colab.research.google.com/github/RodrigoDMU/MyWorkPDA-Project/blob/main/penguins.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-## License
+## Licence
 
 Data are available by [CC-0](https://creativecommons.org/public-domain/cc0/) license in accordance with the [Palmer Station LTER Data Policy](https://pallter.marine.rutgers.edu/data/) and the [LTER Data Access Policy for Type I data](https://lternet.edu/data-access-policy/).
 
