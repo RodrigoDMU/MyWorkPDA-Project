@@ -9,13 +9,13 @@ This repository was created as part of the [Principles of Data Analytics](https:
 
 ## About This Project
 
-This project is about the "palmer penguins" dataset, it is a dataset on penguins of three different species that contains information on the penguins body measurements, including bill length and depth, flipper length, and body mass, as well as sex information. This dataset is widely used in education and research to teach and model data analysis techniques.
+This project is about the ["palmer penguins"](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv) dataset, it is a dataset on penguins of three different species that contains information on the penguins body measurements, including bill length and depth, flipper length, and body mass, as well as sex information. This dataset is widely used in education and research to teach and model data analysis techniques.
 
 There are three species of penguins in the dataset: Adelie, Gentoo and Chinstrap. Scientifically known as Pygoscelis adeliae, Pygoscelis papua and Pygoscelis antarctica, respectively. Data was collected from 3 different locations: Dream, Torgersen and Biscoe at Palmer Station in Antarctica.
 
 The culmen is the upper ridge of a bird’s bill. In the simplified penguins data, culmen length and depth are renamed as variables `bill_length_mm` and `bill_depth_mm` to be more intuitive.
 
-For this penguin data, the culmen (bill) length and depth are measured as shown below (thanks Kristen Gorman for clarifying!): 
+For this penguin data, the culmen (bill) length and depth are measured as shown below (thanks Kristen Gorman for clarifying!): [[2]](#2) [[4]](#4)
 
 ![PenguinsBill](penguinsbill.png)
 
@@ -44,6 +44,10 @@ Where users can get help with your project...
 ## License
 
 Data are available by [CC-0](https://creativecommons.org/public-domain/cc0/) license in accordance with the [Palmer Station LTER Data Policy](https://pallter.marine.rutgers.edu/data/) and the [LTER Data Access Policy for Type I data](https://lternet.edu/data-access-policy/).
+**Data originally published in:**
+
+- Gorman KB, Williams TD, Fraser WR (2014). Ecological sexual dimorphism and environmental variability within a community of Antarctic penguins (genus Pygoscelis). PLoS ONE 9(3):e90081. [https://doi.org/10.1371/journal.pone.0090081](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081)
+
 
 ## Reference
 
@@ -53,9 +57,9 @@ Data are available by [CC-0](https://creativecommons.org/public-domain/cc0/) lic
 
 <a id="3">[3]</a> Basic writing and formatting syntax. Availible: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-**Data originally published in:**
+<a id="4">[4]</a> Gorman KB, Williams TD, Fraser WR (2014). Ecological sexual dimorphism and environmental variability within a community of Antarctic penguins (genus Pygoscelis). PLoS ONE 9(3):e90081. [https://doi.org/10.1371/journal.pone.0090081](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081)
 
-- Gorman KB, Williams TD, Fraser WR (2014). Ecological sexual dimorphism and environmental variability within a community of Antarctic penguins (genus Pygoscelis). PLoS ONE 9(3):e90081. [https://doi.org/10.1371/journal.pone.0090081](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081)
+
 
 ## Author
 
