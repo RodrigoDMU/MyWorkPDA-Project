@@ -21,8 +21,7 @@ For this penguin data, the culmen (bill) length and depth are measured as shown 
 
 ## Use of This Project
 
-Why this project is useful...
-
+This project is useful for demonstrating some of the skills developed for analysis, programming and data visualization using Jupyter Notebook (Python) and ReadMe.md.
 
 ## Getting Started
 
@@ -37,10 +36,6 @@ It opens the `fib.ipynb` notebook in [Google Colab](https://colab.research.googl
 How users can get started with the project...
 
 
-## Getting Help
-
-Where users can get help with your project...
-
 ## License
 
 Data are available by [CC-0](https://creativecommons.org/public-domain/cc0/) license in accordance with the [Palmer Station LTER Data Policy](https://pallter.marine.rutgers.edu/data/) and the [LTER Data Access Policy for Type I data](https://lternet.edu/data-access-policy/).
@@ -51,19 +46,17 @@ Gorman KB, Williams TD, Fraser WR (2014). Ecological sexual dimorphism and envir
 
 ## Reference
 
-<a id="1">[1]</a> About READMEs. Availible: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+<a id="1">[1]</a> About READMEs. Availible: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes [Accessed 29 April 2024]
 
-<a id="2">[2]</a> Palmer penguis. Availible: https://allisonhorst.github.io/palmerpenguins/
+<a id="2">[2]</a> Palmer penguis. Availible: https://allisonhorst.github.io/palmerpenguins/ [Accessed 29 April 2024]
 
-<a id="3">[3]</a> Basic writing and formatting syntax. Availible: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+<a id="3">[3]</a> Basic writing and formatting syntax. Availible: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax [Accessed 29 April 2024]
 
-<a id="4">[4]</a> Gorman KB, Williams TD, Fraser WR (2014). Ecological sexual dimorphism and environmental variability within a community of Antarctic penguins (genus Pygoscelis). PLoS ONE 9(3):e90081. [https://doi.org/10.1371/journal.pone.0090081](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081)
-
-
+<a id="4">[4]</a> Gorman KB, Williams TD, Fraser WR (2014). Ecological sexual dimorphism and environmental variability within a community of Antarctic penguins (genus Pygoscelis). PLoS ONE 9(3):e90081. [https://doi.org/10.1371/journal.pone.0090081](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081) [Accessed 29 April 2024]
 
 ## Author
 
-**Rodrigo De Martino Ucedo**
- I am currently studying a Higher Diploma in Computing in Data Analysis at Atlantic Technological University. For more information, please add me on [LinkedIn](https://www.linkedin.com/in/rdmdemartino/).
+**Rodrigo De Martino Ucedo:**
+ I am currently studying Higher Diploma in Computing in Data Analysis at Atlantic Technological University. For more information or questions, please contact me on GitHub or add me on [LinkedIn](https://www.linkedin.com/in/rdmdemartino/).
 *****
 last commit on 30/04/2024
