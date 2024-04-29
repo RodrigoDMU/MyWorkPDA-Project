@@ -48,7 +48,9 @@ Data are available by [CC-0](https://creativecommons.org/public-domain/cc0/) lic
 ## Reference
 
 <a id="1">[1]</a> About READMEs. Availible: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+
 <a id="2">[2]</a> Palmer penguis. Availible: https://allisonhorst.github.io/palmerpenguins/
+
 <a id="3">[3]</a> Basic writing and formatting syntax. Availible: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 **Data originally published in:**
